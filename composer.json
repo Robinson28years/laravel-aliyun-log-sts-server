@@ -1,0 +1,18 @@
+{
+    "name": "robinson/laravel-aliyun-log-sts-server",
+    "description": "Laravel版阿里云日志服务直连服务",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Robinson",
+            "email": "bb.chen@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
