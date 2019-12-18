@@ -1,10 +1,10 @@
 {
-    "name": "robinson/laravel-aliyun-log-sts-server",
+    "name": "robinson28years/laravel-aliyun-log-sts-server",
     "description": "Laravel版阿里云日志服务直连服务",
     "type": "library",
     "authors": [
         {
-            "name": "Robinson28years",
+            "name": "Robinson",
             "email": "bb.chen@outlook.com"
         }
     ],
