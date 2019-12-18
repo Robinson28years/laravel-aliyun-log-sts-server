@@ -1,7 +1,7 @@
 <?php
 namespace Src;
 
-include_once '../aliyun-php-sdk-core/Config.php';
+include_once 'aliyun-php-sdk-core/Config.php';
 use Sts\Request\V20150401 as Sts;
 
 class StsLog {
